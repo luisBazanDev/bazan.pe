@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Rubik Mono One", monospace;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to top right, #0c0c0c, #1f1f1f);
+}
+
+.text {
+  color: #48cae4;
+  font-size: 1.5rem;
+}
